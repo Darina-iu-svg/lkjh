@@ -1,0 +1,115 @@
+.wrapper{
+    padding: 30px;
+    min-height: 100%;
+}
+img{
+    vertical-align: top;
+}
+*::after,
+*::before{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+html,
+body{
+    height: 100%;
+    line-height: 1;
+    font-size: 14px;
+    background-color: white;
+}
+.title{
+    font-size: 30px;
+    font-weight: 700;
+    color: wheat;
+    margin: 0px 0px 30px 0px;
+}
+.image_slider{
+    padding: 30px 0 70px 0;
+}
+.image-slader_image{
+    text-align: center;
+}
+.image-slader_image img{
+    max-width: 100%;
+}
+.image-slader .swiper-scrollbar-drag{
+    cursor: pointer;
+    background-color:black;
+}
+.title1{
+    height: 300px;
+    position: relative;
+
+}
+.logo{
+    text-align: center;
+}
+.photo{
+    position: absolute;
+}
+.wow{
+    margin-right: 1200px;
+}
+.wow:last-child{
+    margin-right: 0px;
+}
+.wow:first-child{
+    margin-left: 50px;
+}
+.content{
+    height: 1000px;
+    position: relative;
+    background-color: #BF0404;
+}
+.moroz{
+    margin-left: 185px;
+    margin-top: 85px;
+}
+.ded{
+    display: flex;
+    justify-content: space-between;
+}
+.text1{
+    width: 250px;
+    height: 100px;
+    color: white;
+    font-size: 16px;
+    line-height: 3;
+    margin-left: 600px;
+    margin-top: -199px;
+    transition: 1s;
+    cursor: pointer;
+
+}
+.text1:hover{
+    color: gold;
+}
+.klass{
+    margin-left: 280px;
+}
+.yyy{
+    margin-left: 400px;
+}
+.hhh{
+    margin-top: -400px;
+    margin-right: 100px;
+}
+.tree{
+    position: relative;
+    background-image: url(../img/s-0128c02d6526e3d9627dd1d4d2737ad1a3a82081.gif);
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main-tree{
+    margin-left: 600px;
+}
+.title{
+    text-align: center;
+    color: red;
+}
